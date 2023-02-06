@@ -49,8 +49,8 @@ public class DragAndDrop : MonoBehaviour
             if(dragImage.gameObject.activeSelf == false)
             {
                 dragImage.gameObject.SetActive(true);
-                dragImage.transform.position = Input.mousePosition;
             }
+                dragImage.transform.position = Input.mousePosition;
         }
     }
 
