@@ -217,3 +217,39 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 101274.963224 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(7c152e05bff89f34095f6494ea9b54e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(7c152e05bff89f34095f6494ea9b54e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0240258f649b9e3633c6f8cd6a46ebed') in 0.008272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.575634 seconds.
+  path: Assets/Scripts/ScriptableObjets
+  artifactKey: Guid(84f33f29c984b324db6827299f34ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjets using Guid(84f33f29c984b324db6827299f34ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580a48c3e4ea21df66ae095eca1e9b51') in 0.002785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.810983 seconds.
+  path: Assets/Scripts/ScriptableObjets/Item.cs
+  artifactKey: Guid(e8a29531c3567f8439638fdad9fb6506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjets/Item.cs using Guid(e8a29531c3567f8439638fdad9fb6506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6850a6f25a067d09c8bec6bf5abf79f') in 0.017962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.721828 seconds.
+  path: Assets/Scripts/DragAndDrop.cs
+  artifactKey: Guid(366b1d7301d544447bf8d96cee81af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DragAndDrop.cs using Guid(366b1d7301d544447bf8d96cee81af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cd51b411c75169b76e1d518803c364') in 0.002681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.247616 seconds.
+  path: Assets/Scripts/InventoryManager.cs
+  artifactKey: Guid(f6e43bfc30d47314f83cc9e21fb06c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/InventoryManager.cs using Guid(f6e43bfc30d47314f83cc9e21fb06c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa14a0184abddda7f4a4eb53d7bb40b') in 0.002753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.935219 seconds.
+  path: Assets/Scripts/SlotHandler.cs
+  artifactKey: Guid(bec2e564aa2669d478ed0ecfbe726d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SlotHandler.cs using Guid(bec2e564aa2669d478ed0ecfbe726d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6686bf3ed8bfc731ce4c087f59758e0a') in 0.011402 seconds 
