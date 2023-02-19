@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a29531c3567f8439638fdad9fb6506, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  itemId: Sword3
+  itemName: Katana
+  itemDescription: a Japanese sword characterized by a curved, single-edged blade
+    with a circular or squared guard and long grip to accommodate two hands
+  stackMax: 1
+  stackCurrent: 0
+  itemType: 0
+  cost: 200
+  icon: {fileID: 21300000, guid: 8edf3d55d99fd034581ac2cd8fbfa608, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a29531c3567f8439638fdad9fb6506, type: 3}
+  m_Name: LondSword
+  m_EditorClassIdentifier: 
+  itemId: Sword4
+  itemName: Long Sword
+  itemDescription: What is a long sword used for? Image result for long sword description
+    A powerful and versatile weapon, the longsword is used for hewing, slicing, and
+    stabbing
+  stackMax: 1
+  stackCurrent: 0
+  itemType: 0
+  cost: 250
+  icon: {fileID: 21300000, guid: dd55732eba8efe3468ca52ebee6da306, type: 3}
